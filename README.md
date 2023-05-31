@@ -3,19 +3,19 @@
 In this challenge you must analyze demographic data using Pandas. You are given a dataset of demographic data that was extracted from the 1994 Census database. Here is a sample of what the data looks like:
 
 
-Thid **project** uses **Pandas** and answers the following questions:
+This **project** uses **Pandas** and answers the following NINE questions:
 
-People/Race? 
-AVG(men)?
-Percentage of people who have a Bachelor's degree?
-What % of people with advanced education (Bachelors, Masters, or Doctorate) earn >= 50K?
-What % of people without advanced education earn >= 50K?
-Calculate min work hours/week
-What % of the people who work the 
-min no. of hours/week have a salary >= 50K?
-Which country has the highest % of people that earn >50K and what is that percentage?
-Identify the most popular occupation for those who earn >50K in India.
-
+1. What is the number of people belonging to each race
+2. Average number of men from the dataset
+3. Percentage of people who have a Bachelor's degree
+4. What % of people with advanced education (Bachelors, Masters, or Doctorate) earn >= 50K
+5. What % of people without advanced education earn >= 50K
+6. Calculate min work hours/week
+7. What % of the people who work the 
+min no. of hours/week have a salary >= 50K
+8. Which country has the highest % of people that earn >50K and what is that percentage
+9. Identify the most popular occupation for those who earn >50K in India
+    
 Unit tests can be found under test_module.py.
 
 **Development**
